@@ -1,0 +1,14 @@
+********************************
+A Tiny Compiler
+********************************
+
+README		- This file
+
+# Compiler source files
+reparse {.py}	- Primary source code
+
+Purpose:
+To show an example of a tiny compiler. The compiler builds deterministic finite automata (dfa's) as well as non-deterministic finite automata (nfa's) using a formal grammar, i.e., an alphabet with production rules.
+
+To run:
+There are too many dependencies to include them all :)
